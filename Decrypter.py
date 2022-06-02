@@ -1,7 +1,6 @@
 import hashlib
 print("Hello, Welcome to DEECRYPTED!!")
 print("Decrypt any Password here (NOTE- ONLY MD5 HASHES ALLOWED)")
-print("rockyou.txt wordlist is given by default but if you want you can add your wordlist too in the folder and use it")
 print("██████╗░███████╗███████╗░█████╗░██████╗░██╗░░░██╗██████╗░████████╗███████╗██████╗░██╗██╗")
 print("██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██║██║")
 print("██║░░██║█████╗░░█████╗░░██║░░╚═╝██████╔╝░╚████╔╝░██████╔╝░░░██║░░░█████╗░░██║░░██║██║██║")
