@@ -10,8 +10,7 @@
   <label>To go into the folder-</label>
   <pre>cd DENCRYPTED-</pre>
   <label>To use encrypter and decrypter-</label>
-  <pre>python3 Encrypter.py
-  python3 Decrypter.py</pre>
+  <pre>python3 Encrypter.py                 python3 Decrypter.py</pre>
 </center>
 </body>
 </html>
