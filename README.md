@@ -11,7 +11,7 @@
   <pre>cd DENCRYPTED-</pre>
   <label>To use encrypter and decrypter-</label>
   <pre>python3 Encrypter.py
-   python3 Decrypter.py</pre>
+  python3 Decrypter.py</pre>
 </center>
 </body>
 </html>
